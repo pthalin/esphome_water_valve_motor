@@ -1,4 +1,4 @@
-# Esphome Water?Gas Valve Motor
+# Esphome Water/Gas Valve Motor
 Conversion of cheap Tuya Valve Motor to Esphome.
 
 ### Parts 
