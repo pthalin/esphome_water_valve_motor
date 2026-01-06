@@ -1,5 +1,5 @@
-# esphome_water_valve_motor
-Conversion of Tuya Valve Motor to Esphome
+# Esphome Water?Gas Valve Motor
+Conversion of cheap Tuya Valve Motor to Esphome.
 
 ### Parts 
 Use these arfilliate links to support me!\
@@ -9,5 +9,5 @@ Use these arfilliate links to support me!\
 Origial with Tuya controller.\
 <img height="300" src="images/before_tuya.jpg">
 
-Replaced controller with ESP8266 D1 Mini.\
+Replaced controller with ESP8266 D1 Mini. Please make sure to programm the ESP8266 before putting back the enclosure :)\
 <img height="300" src="images/after_esp8266_d1_mini.jpg"> 
